@@ -64,7 +64,15 @@ pre {
 </head>
 
 <body>
- 
+ <div class="global-notices">
+    <div class="global-notice ">
+      <div class="global-notice-inner">
+        <h2>This is a global warning</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.</p>
+      </div>
+    </div>
+  </div>
+
  <div id="titulo">
    Sistema de Empréstimo de Livro.
  <div>
